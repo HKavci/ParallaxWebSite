@@ -1,0 +1,12 @@
+#NOTLAR
+
+İlk sayfadaki CLARUSWAY yazısını ortalamak için aşağıdaki özellikleri kullandık:
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+
+
+background-attachment: fixed;
+background-size: cover
+display: flex
+align-items: center
